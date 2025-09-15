@@ -1,7 +1,7 @@
 # CichyCze
 Oh, hi there 👋
 
-I'm CichyCze - a 21 year old kinda developer 👨‍💻
+I'm CichyCze - a 22 year old kinda developer 👨‍💻
 
 I'm also a [Light-Core.eu](https://light-core.eu) project owner 👔
 
